@@ -39,6 +39,7 @@ int main()
    {
        printf("Armstrong ");
    }
+    
    else
    {
        printf(" not Armstrong");
